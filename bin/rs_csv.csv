@@ -1,0 +1,64 @@
+
+
+Fid ,file_name,Type
+,,
+
+
+
+
+Version_ID,V_User_id
+,
+
+
+
+
+Branch_ID,Time stamp,latest_version_id,B_User_id,Relationship,Pbid,child_num
+,,,,,,
+
+
+
+
+Version_ID,Fid 
+,
+
+
+
+
+R_id ,user_id,Type,Belongs_to,Owns/Part_of
+,,,,
+
+
+
+
+Remote_repo_id,Description ,Progress Bar
+,,
+
+
+
+
+User_id,Password ,Progress Bar
+,,
+
+
+
+
+Remote_repo_id,User_id
+,
+
+
+
+
+Company_id,User_id
+,
+
+
+
+
+Company_id,Remote_repo_id
+,
+
+
+
+
+Company_id,User_id
+,
