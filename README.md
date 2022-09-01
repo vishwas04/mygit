@@ -5,7 +5,7 @@ A version Control System similar to Git which uses PostgreSQL as the database fo
 ## Contributors:
 [Vishwas R](https://github.com/vishwas04)
 [Uthpal P](https://github.com/Uthpal-p)
-Sudarshan TR
+[Sudarshan TR](https://github.com/sudh001)
 
 ## Description:
 ### Files:
